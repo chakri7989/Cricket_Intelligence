@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2019-08-26",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Leeds",
+    "dates": [
+      "2019-08-22",
+      "2019-08-23",
+      "2019-08-24",
+      "2019-08-25"
+    ],
+    "event": {
+      "match_number": 3,
+      "name": "The Ashes"
+    },
+    "gender": "male",
+    "match_type": "Test",
+    "outcome": {
+      "by": {
+        "wickets": 1
+      },
+      "winner": "England"
+    },
+    "overs": 0,
+    "player_of_match": [
+      "BA Stokes"
+    ],
+    "players": {
+      "Australia": [
+        "DA Warner",
+        "MS Harris",
+        "UT Khawaja",
+        "M Labuschagne",
+        "TM Head",
+        "MS Wade",
+        "TD Paine",
+        "JL Pattinson",
+        "PJ Cummins",
+        "NM Lyon",
+        "JR Hazlewood"
+      ],
+      "England": [
+        "RJ Burns",
+        "JL Denly",
+        "JE Root",
+        "BA Stokes",
+        "JM Bairstow",
+        "JC Buttler",
+        "CR Woakes",
+        "JC Archer",
+        "SCJ Broad",
+        "MJ Leach"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BA Stokes": "f0672224",
+        "PJ Cummins": "e9561113",
+        "MJ Leach": "a9876543",
+        "JR Hazlewood": "b8765432"
+      }
+    },
+    "teams": [
+      "England",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "England"
+    },
+    "venue": "Headingley, Leeds"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "SCJ Broad",
+              "non_striker": "MS Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "SCJ Broad",
+              "non_striker": "MS Harris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "JM Bairstow"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RJ Burns",
+              "bowler": "JR Hazlewood",
+              "non_striker": "JL Denly",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MS Harris",
+              "bowler": "JC Archer",
+              "non_striker": "UT Khawaja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 125,
+          "deliveries": [
+            {
+              "batter": "BA Stokes",
+              "bowler": "PJ Cummins",
+              "non_striker": "MJ Leach",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PJ Cummins",
+              "non_striker": "MJ Leach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BA Stokes",
+              "bowler": "PJ Cummins",
+              "non_striker": "MJ Leach",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

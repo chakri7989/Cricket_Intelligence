@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2023-11-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Ahmedabad",
+    "dates": [
+      "2023-11-19"
+    ],
+    "event": {
+      "match_number": 48,
+      "name": "ICC Men's Cricket World Cup"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "outcome": {
+      "by": {
+        "wickets": 6
+      },
+      "winner": "Australia"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "TM Head"
+    ],
+    "players": {
+      "Australia": [
+        "DA Warner",
+        "TM Head",
+        "MR Marsh",
+        "SPD Smith",
+        "M Labuschagne",
+        "GJ Maxwell",
+        "JP Inglis",
+        "MA Starc",
+        "PJ Cummins",
+        "A Zampa",
+        "JR Hazlewood"
+      ],
+      "India": [
+        "RG Sharma",
+        "Shubman Gill",
+        "V Kohli",
+        "SS Iyer",
+        "KL Rahul",
+        "SA Yadav",
+        "RA Jadeja",
+        "Mohammed Shami",
+        "JJ Bumrah",
+        "Kuldeep Yadav",
+        "Mohammed Siraj"
+      ]
+    },
+    "registry": {
+      "people": {
+        "TM Head": "c7349991",
+        "V Kohli": "b0682224",
+        "RG Sharma": "c1783335",
+        "PJ Cummins": "e9561113",
+        "MA Starc": "d8450002",
+        "JJ Bumrah": "d2894446"
+      }
+    },
+    "teams": [
+      "India",
+      "Australia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Australia"
+    },
+    "venue": "Narendra Modi Stadium, Ahmedabad"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "MA Starc",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MA Starc",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MA Starc",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MA Starc",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MA Starc",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "MA Starc",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "Shubman Gill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shubman Gill",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shubman Gill",
+                  "fielders": [
+                    {
+                      "name": "A Zampa"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DA Warner",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "JJ Bumrah",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "TM Head",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Shami",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Shami",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "Mohammed Shami",
+              "non_striker": "TM Head",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Head",
+              "bowler": "Mohammed Shami",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

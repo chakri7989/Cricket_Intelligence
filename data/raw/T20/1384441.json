@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "data_version": "1.3.0",
+    "created": "2022-10-24",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Melbourne",
+    "dates": [
+      "2022-10-23"
+    ],
+    "event": {
+      "match_number": 16,
+      "name": "ICC Men's T20 World Cup"
+    },
+    "gender": "male",
+    "match_type": "IT20",
+    "outcome": {
+      "by": {
+        "wickets": 4
+      },
+      "winner": "India"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "V Kohli"
+    ],
+    "players": {
+      "India": [
+        "KL Rahul",
+        "RG Sharma",
+        "V Kohli",
+        "SA Yadav",
+        "AR Patel",
+        "HH Pandya",
+        "KD Karthik",
+        "R Ashwin",
+        "B Kumar",
+        "Mohammed Shami",
+        "Arshdeep Singh"
+      ],
+      "Pakistan": [
+        "Mohammad Rizwan",
+        "Babar Azam",
+        "Shan Masood",
+        "Iftikhar Ahmed",
+        "Shadab Khan",
+        "Haider Ali",
+        "Mohammad Nawaz",
+        "Asif Ali",
+        "Shaheen Shah Afridi",
+        "Naseem Shah",
+        "Haris Rauf"
+      ]
+    },
+    "registry": {
+      "people": {
+        "V Kohli": "b0682224",
+        "HH Pandya": "f6238880",
+        "Haris Rauf": "f5123456",
+        "Babar Azam": "f4016668"
+      }
+    },
+    "teams": [
+      "Pakistan",
+      "India"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "Melbourne Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "B Kumar",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              },
+              "extras": {
+                "wides": 1
+              }
+            },
+            {
+              "batter": "Mohammad Rizwan",
+              "bowler": "B Kumar",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Haris Rauf",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Haris Rauf",
+              "non_striker": "HH Pandya",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

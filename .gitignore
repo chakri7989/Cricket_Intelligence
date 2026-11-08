@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyd.bak
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+backend/.venv/
+venv/
+env/
+ENV/
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Databases and Chroma Vector Storage Binaries
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+*.bin
+backend/data/sqlite/
+backend/data/chroma/
+backend/backend/
+chroma_test*/
+
+# Environment Variables & Secrets
+.env
+backend/.env
+frontend/.env
+*.local
+
+# Raw Cricsheet Datasets - ignore bulk YAML & extra JSON
+data/raw/**/*.yaml
+data/raw/**/*.txt
+data/raw/IPL/*.json
+!data/raw/IPL/1082591.json
+!data/raw/IPL/1082592.json
+!data/raw/IPL/1082593.json
+!data/raw/IPL/1082594.json
+!data/raw/IPL/1082595.json
+data/raw/ODI/*.json
+!data/raw/ODI/1384439.json
+data/raw/TEST/*.json
+!data/raw/TEST/1384440.json
+data/raw/T20/*.json
+!data/raw/T20/1384441.json
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
